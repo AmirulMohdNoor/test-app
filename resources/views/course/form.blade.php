@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>INDEX</h1>
+<h1>INDEX ERROR</h1>
 
 <div class="table-container">
     <form action="#" method="post">
